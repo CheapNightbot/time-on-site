@@ -1,0 +1,24 @@
+body {
+    color: #fff;
+    background: #252525;
+}
+
+
+#user-clock,
+#clock {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#user-timezone,
+#timezone {
+    font-size: 2rem;
+}
+
+#user-date-time,
+#date-time {
+    font-size: 2rem;
+    text-align: center;
+    cursor: pointer;
+}
